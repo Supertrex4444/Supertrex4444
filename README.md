@@ -1,4 +1,8 @@
-## Hi there 👋
+## Greetings and Salutations!
+
+My name is Travis, I'm a game developer who is studying at FTCC to obtain a degree in Computer Programming.
+
+I look forward to working with you on future endeavors!
 
 <!--
 **Supertrex4444/Supertrex4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
