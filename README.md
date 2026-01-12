@@ -1,11 +1,11 @@
 # Greetings and Salutations!
 
 ## About Me
-My name is Travis Cayton, and I'm currently taking CSC-113 to learn more about C++ programming and using GitHub.
+My name is Travis Cayton, and I'm currently taking CSC-113 to become more informed about Artificial Intelligence.
 
 <br>
 
-## My Foo 🎯
+## My Interests 🎯
 I'm a game developer and digital artist who is passionate about character design.
 
 <br>
@@ -15,8 +15,9 @@ I'm a game developer and digital artist who is passionate about character design
 
 <br>
 
-## Find Me
-- 📫 Right here on GitHub!
+## Contact me through
+- 📫 GitHub
+- ✉️ Email
 
 <br>
 
